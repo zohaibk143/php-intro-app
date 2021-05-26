@@ -23,7 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/php-intro-app/";
+//$config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/php-intro-app/"; 
+// by zohaib
+$config['base_url'] = 'http://localhost/php-intro-app';
 
 /*
 |--------------------------------------------------------------------------
