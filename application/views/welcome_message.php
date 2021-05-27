@@ -72,8 +72,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div id="body">
 		<video width="320" height="240" controls>
-		  <source src="<?php echo base_url() ?>/assets/intro_info/mov_bbb.mp4" type="video/mp4">
-		  <source src="<?php echo base_url() ?>/assets/intro_info/mov_bbb.ogg" type="video/ogg">
+		  <source src="assets/intro_info/mov_bbb.mp4" type="video/mp4">
+		  <source src="assets/intro_info/mov_bbb.ogg" type="video/ogg">
 		Your browser does not support the video tag.
 		</video>
 	</div>
